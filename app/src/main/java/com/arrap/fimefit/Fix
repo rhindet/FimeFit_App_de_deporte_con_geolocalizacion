@@ -1,0 +1,5 @@
+
+
+Errors
+- If you start a run and try to change progress bar of soft-music before the soft-round start , it crashes.
+- When you finish a run and the track resets , the total duration does not reset.

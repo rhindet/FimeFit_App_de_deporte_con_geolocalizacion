@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/orderby_date"
+        android:title="@string/orderby_dateZA"/>
+    <item android:id="@+id/orderby_duration"
+        android:title="@string/orderby_durationZA"/>
+    <item android:id="@+id/orderby_distance"
+        android:title="@string/orderby_distanceZA"/>
+    <item android:id="@+id/orderby_avgspeed"
+        android:title="@string/orderby_avgspeedZA"/>
+    <item android:id="@+id/orderby_maxspreed"
+    android:title="@string/orderby_maxspeedZA"/>
+
+
+
+
+
+</menu>

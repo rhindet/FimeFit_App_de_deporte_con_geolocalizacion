@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190446821096",
+    "project_id": "fimefit",
+    "storage_bucket": "fimefit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190446821096:android:a2d256d4113497d8d5335d",
+        "android_client_info": {
+          "package_name": "com.arrap.fimefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190446821096-756tru43610jj64ore3d1v2aa1r0nil8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrap.fimefit",
+            "certificate_hash": "af58c1b9f6097b6822286ccf5afa36520426abec"
+          }
+        },
+        {
+          "client_id": "190446821096-qjaoaklumqlm9tdt11cohhbfkelc7gcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zgLRX5hwzKe110xbRFcboKAnNvs2oO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190446821096-e493pt0i720f6e859f1ok1n33v213lk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="app_color_dark">#1B190F</color>
+    <color name="previous_cell">#ffa500</color>
+
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="black_trans">#9F000000</color>
+
+    <color name="pastel_yellow">#f9eeb3</color>
+    <color name="orange">#FFC107</color>
+    <color name="orange_dark">#c7980c</color>
+
+    <color name="salmon_pastel">#ffccdd</color>
+    <color name="salmon">#EA786F</color>
+    <color name="salmon_dark">#ff4f78</color>
+
+    <color name="blue_pastel">#cce6ff</color>
+    <color name="blue_light">#00BCD4</color>
+    <color name="blue">#2b91f7</color>
+    <color name="blue_dark">#040C3E</color>
+    <color name="blue_trans">#fc4a8aff</color>
+
+    <color name="gray_light">#f7f7f7</color>
+    <color name="gray">#D8D8D8</color>
+    <color name="gray_medium">#787878</color>
+    <color name="gray_strong">#5B5B5B</color>
+    <color name="gray_dark">#2B2A29</color>
+    <color name="gray_light_trans">#9Ff7f7f7</color>
+
+    <color name="chrono_running">#D6250C</color>
+    <color name="chrono_walking">#fc4a8aff</color>
+    <color name="green">#4CAF50</color>
+
+    <color name="bg_terms">#837255</color>
+</resources>
